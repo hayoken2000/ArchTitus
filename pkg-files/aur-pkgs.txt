@@ -13,6 +13,7 @@ nordic-darker-theme
 nordic-kde-git
 nordic-theme
 ocs-url
+playonlinux
 plymouth-git
 sddm-nordic-theme-git
 snapper-gui-git
