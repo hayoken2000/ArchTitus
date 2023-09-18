@@ -43,6 +43,7 @@ dtc
 efibootmgr
 egl-wayland
 exfat-utils
+firefox
 flex
 fuse2
 fuse3
